@@ -1,1 +1,1 @@
-
+MetaCTF2020 was a capture the flag competition held on October 24th, 2020. This was the first capture the flag competition I participated in. In this repository you will find writeups to the various challenges I solved during the competition
